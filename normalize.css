@@ -21,6 +21,10 @@ ul {
 li {
   list-style: none;
 }
+
+blockquote {
+  margin: 0;
+}
 /*********** End of my settings ***********/
 
 
